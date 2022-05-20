@@ -16,4 +16,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chacetechost&theme=great-gatsby)](https://github.com/chacetechost/github-readme-stats)
 
-NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+NOTE: Languages above does not indicate my skill level or anything like that; it is only a metric of the languages my public codes consist of and doesn't reflect experience or skill level, there are a lot more. Let's link on:
+<a href="https://twitter.com/iamchace_" target="_blank">
+ <img src="github.com/chacetechost/public-images/blob/main/twitter-icon.png" alt="Twitter logo" />
+</a>
+
