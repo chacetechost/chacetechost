@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate and connect with likeminds and gorw my networks.
 - 🤔 I’m looking for help with HEx. Help Experinece, a startup i strongly believe in..
 - 💬 Ask me about whatever you'd like, But please keep it professional! haha...
-- 📫 How to reach me: https://twiter.com/iamchace_
+- 📫 How to reach me:
 - 😄 Pronouns: Otunba, Him & He
 - ⚡ Fun fact: I'm a partially blind programmer. I listen to music a lot, when i am not coding, I am perfecting my guitar strums!
 
