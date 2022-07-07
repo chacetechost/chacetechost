@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chacetechost&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chacetechost&hide_border=true&show_icons=true&theme=algonia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chacetechost&show_icons=true&theme=algonia)
 
 NOTE: Languages above does not indicate my skill level or anything like that; it is only a metric of the languages my public codes consist of and doesn't reflect experience or skill level, there are a lot more.
 
