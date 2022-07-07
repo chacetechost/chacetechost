@@ -9,9 +9,9 @@
 - 😄 Pronouns: Otunba, Him & He
 - ⚡ Fun fact: I'm a partially blind programmer. I listen to music a lot, when i am not coding, I am perfecting my guitar strums!
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chacetechost&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chacetechost&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chacetechost&theme=great-gatsby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chacetechost&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 NOTE: Languages above does not indicate my skill level or anything like that; it is only a metric of the languages my public codes consist of and doesn't reflect experience or skill level, there are a lot more.
 
