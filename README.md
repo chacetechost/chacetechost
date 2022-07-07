@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chacetechost&theme=great-gatsby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![chacetechost's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chacetechost&theme=great-gatsby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![chacetechost's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chacetechost&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 NOTE: Languages above does not indicate my skill level or anything like that; it is only a metric of the languages my public codes consist of and doesn't reflect experience or skill level, there are a lot more.
 
