@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate and connect with likeminds and gorw my networks.
 - 🤔 I’m looking for help with HEx. Help Experinece, a startup i strongly believe in..
 - 💬 Ask me about whatever you'd like, But please keep it professional! haha...
-- 😄 Pronouns: Otunba, Him & He
+- 😄 Pronouns: Otunba
 - ⚡ Fun fact: I'm a partially blind programmer. I listen to music a lot, when i am not coding, I am perfecting my guitar strums!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chacetechost&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
