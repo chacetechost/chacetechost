@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on projects which i strongly believe will help Africa's economy grow strongly thanks to the advancment in technology! 
-- 🌱 I’m currently learning React JS & Web3.0
+- 🌱 I’m currently learning React JS & TypeScript and horning my backend abilities with Node
 - 👯 I’m looking to collaborate and connect with likeminds and gorw my networks.
 - 🤔 I’m looking for help with HEx. Help Experinece, a startup i strongly believe in..
 - 💬 Ask me about whatever you'd like, But please keep it professional! haha...
