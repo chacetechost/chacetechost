@@ -10,3 +10,6 @@
 - ⚡ Fun fact: I'm a partially blind programmer. I listen to music a lot, when i am not coding, I am perfecting my guitar strums!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chacetechost&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+Let's Go
