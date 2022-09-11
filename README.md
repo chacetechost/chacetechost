@@ -13,3 +13,5 @@
 
 On my way to make the future. It's amazing how much we can achieve when we put our minds to it. The man of tomorrow is shaped by the challenges of today. 
 
+Approaching the final days of enacting my dream!
+
