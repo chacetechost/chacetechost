@@ -18,4 +18,4 @@ Approaching the final days of enacting my dream!
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=chacetechost&count_private=true&show_icons=true&theme=merko)](https://github.com/chacetechost)
 
 
-[![chace's github activity graph](https://activity-graph.herokuapp.com/graph?username=chacetechost&count_private=true&theme=hexcode&custom_title=Chace's%20Contribution%20Graph)](https://github.com/chacetechost)
+[![chace's github activity graph](https://activity-graph.herokuapp.com/graph?username=chacetechost&count_private=true&theme=xcode&custom_title=Chace's%20Contribution%20Graph)](https://github.com/chacetechost)
