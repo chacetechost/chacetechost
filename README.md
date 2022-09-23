@@ -9,7 +9,7 @@
 - 😄 Pronouns: Otunba
 - ⚡ Fun fact: I'm a partially blind programmer. I listen to music a lot, when i am not coding, I am perfecting my guitar strums or I'm writing! I have a new book I'm working on at the moment, i hope I actually get to finish it 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chacetechost&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chacetechost&langs_count=6&count_private=true&layout=compact)](https://github.com/chacetechost/chacetechost)
 
 On my way to make the future. It's amazing how much we can achieve when we put our minds to it. The man of tomorrow is shaped by the challenges of today. 
 
