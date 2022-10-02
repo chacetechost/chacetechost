@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with HEx. Help Experinece, a startup i strongly believe in..
 - 💬 Ask me about whatever you'd like, But please keep it professional! haha...
 - 😄 Pronouns: Otunba
-- ⚡ Fun fact: I'm a partially blind programmer. I listen to music a lot, when i am not coding, I am perfecting my guitar strums or I'm writing! I have a new book I'm working on at the moment, i hope I actually get to finish it 
+- ⚡ Fun fact: I listen to music a lot, when i am not coding, I am perfecting my guitar strums or I'm writing! I have a new book I'm working on at the moment, i hope I actually get to finish it this is make it my 5th incomplete book. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chacetechost&langs_count=6&count_private=false&theme=dark&layout=compact)](https://github.com/chacetechost/chacetechost)
 
