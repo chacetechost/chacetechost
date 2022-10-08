@@ -22,6 +22,6 @@ Approaching the final days of enacting my dream!
 
 [![chace's github activity graph](https://activity-graph.herokuapp.com/graph?username=chacetechost&count_private=true&theme=xcode&custom_title=Chace's%20Contribution%20Graph)](https://github.com/chacetechost)
 
-In just a few days, a new history will be written.. all i can say about the year, its looking like a win year
+In just a few days, a new history will be written.. all i can say about the year, its looking like a win year already. 
 
 
