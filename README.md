@@ -22,6 +22,6 @@ Approaching the final days of enacting my dream!
 
 [![chace's github activity graph](https://activity-graph.herokuapp.com/graph?username=chacetechost&count_private=true&theme=xcode&custom_title=Chace's%20Contribution%20Graph)](https://github.com/chacetechost)
 
-In just a few months, a new history will be written.. Are you resdy? You can always connect with me through my website. I will be introducing Dey4U on my discord. Let's Go!
+In just a few months, a new history will be written.. Are you resdy? You can always connect with me through my website. I will be introducing Dey4U on my discord.
 
 
