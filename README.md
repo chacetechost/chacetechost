@@ -22,6 +22,6 @@ Approaching the final days of enacting my dream!
 
 [![chace's github activity graph](https://activity-graph.herokuapp.com/graph?username=chacetechost&count_private=true&theme=xcode&custom_title=Chace's%20Contribution%20Graph)](https://github.com/chacetechost)
 
-I don't know how to feel about resumption. And I can't even say  
+I don't know how to feel about resumption.   
 
 
