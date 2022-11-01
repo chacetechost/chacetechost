@@ -22,7 +22,7 @@ Approaching the final days of enacting my dream!
 
 [![chace's github activity graph](https://activity-graph.herokuapp.com/graph?username=chacetechost&count_private=true&theme=xcode&custom_title=Chace's%20Contribution%20Graph)](https://github.com/chacetechost)
 
-Finally in school, Trenches, they call it. Its been a while i wrote in Javascript. God help me. Drama is
+Finally in school, Trenches, they call it. Its been a while i wrote in Javascript. God help me
 
   
 
