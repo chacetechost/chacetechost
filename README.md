@@ -24,7 +24,7 @@ Approaching the final days of enacting my dream!
 
 
 
-We 
+ 
 
 
 
